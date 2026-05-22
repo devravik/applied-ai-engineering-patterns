@@ -1,4 +1,3 @@
-````md
 # Applied AI Engineering Patterns
 
 Production-oriented patterns, architectures, and workflows for building real-world AI systems.
